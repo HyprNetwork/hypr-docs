@@ -41,6 +41,7 @@ The protocol facilitates a wide range of on-chain card-like games, including but
 Developers only require six game APIs to construct games on the Hypr platform. For further information, please refer to the Solidity interface.
 
 ```solidity
+// Verify proof of ownership of a game key
 function verifyKeyOwnership(
     bytes params,
     bytes pubKey,
@@ -48,16 +49,19 @@ function verifyKeyOwnership(
     bytes keyProof
 ) external view returns (bool);
 
+// Compute aggregation public key
 function computeAggregateKey(
     bytes[] pubKeys
 ) external view returns (bytes memory);
 
+// Mask a playing card
 function mask(
     bytes params,
     bytes sharedKey,
     bytes encoded
 ) external pure returns (bytes memory);
 
+// Verify proof of shuffling of deck
 function verifyShuffle(
     bytes params,
     bytes sharedKey,
@@ -66,6 +70,7 @@ function verifyShuffle(
     bytes shuffleProof
 ) external view returns (bool);
 
+// Verify proof of reveal token of a card
 function verifyReveal(
     bytes params,
     bytes pubKey,
@@ -74,6 +79,7 @@ function verifyReveal(
     bytes revealProof
 ) external view returns (bool);
 
+// Reveal a masked playing card
 function reveal(
     bytes[] revealTokens,
     bytes masked
@@ -91,12 +97,3 @@ Above APIs will be provided via precompiled smart contract on Hypr.
 Build your games on top of example game contracts to save time and effort:
 
 <table><thead><tr><th width="273">Contract</th><th>Description</th></tr></thead><tbody><tr><td>GameInstance.sol</td><td>An example of a fundamental game contract suitable for a generic card game.</td></tr><tr><td>OneTimeDrawInstance.sol</td><td>A sample game contract that allows players to draw all their hands simultaneously, similar to Texas Hold'em.</td></tr><tr><td>TexasHoldemController.sol</td><td>A minimal implementation of Texas Hold'em using <code>OneTimeDrawInstance</code></td></tr></tbody></table>
-
-###
-
-\
-\
-
-
-\
-\
