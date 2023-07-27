@@ -38,7 +38,7 @@ The protocol facilitates a wide range of on-chain card-like games, including but
 
 ### SDK Functions
 
-Developers only require six game APIs to construct games on the Hypr platform. For further information, please refer to the Solidity interface.
+Developers only require six game function to construct card games on the Hypr platform. For further information, please refer to the Solidity interface.
 
 ```solidity
 // Verify proof of ownership of a game key
