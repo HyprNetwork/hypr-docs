@@ -90,7 +90,7 @@ Above APIs will be provided via precompiled smart contract on Hypr.
 
 Build your games on top of example game contracts to save time and effort:
 
-<table><thead><tr><th width="273">Contract</th><th>Description</th></tr></thead><tbody><tr><td>GameInstance.sol</td><td>An example of basic game contract for general card game</td></tr><tr><td>OneTimeDrawInstance.sol</td><td>An example of game contract where players draw all their hands at once, e.g. Texas Hold'em</td></tr><tr><td>TexasHoldemController.sol</td><td>A minimized implementation of Texas Hold'em using <code>OneTimeDrawInstance</code></td></tr></tbody></table>
+<table><thead><tr><th width="273">Contract</th><th>Description</th></tr></thead><tbody><tr><td>GameInstance.sol</td><td>An example of a fundamental game contract suitable for a generic card game.</td></tr><tr><td>OneTimeDrawInstance.sol</td><td>A sample game contract that allows players to draw all their hands simultaneously, similar to Texas Hold'em.</td></tr><tr><td>TexasHoldemController.sol</td><td>A minimal implementation of Texas Hold'em using <code>OneTimeDrawInstance</code></td></tr></tbody></table>
 
 ###
 
