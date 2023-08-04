@@ -8,7 +8,7 @@ description: >-
 
 Introducing the Hypr card game SDK - a versatile toolkit empowering game developers to effortlessly create on-chain card games with zero-knowledge proof technology.
 
-{% embed url="https://github.com/HyprNetwork/zk-card-game-sdk" %}
+[https://github.com/HyprNetwork/zk-card-game-sdk](https://github.com/HyprNetwork/zk-card-game-sdk)
 
 ### Features
 
