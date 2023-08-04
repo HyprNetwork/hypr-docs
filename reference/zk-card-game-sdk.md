@@ -99,3 +99,9 @@ Above APIs will be provided via precompiled smart contract on Hypr.
 Build your games on top of example game contracts to save time and effort:
 
 <table><thead><tr><th width="273">Contract</th><th>Description</th></tr></thead><tbody><tr><td><a href="https://github.com/HyprNetwork/zk-card-game-sdk/blob/main/contracts/GameInstance.sol">GameInstance.sol</a></td><td>An example of a fundamental game contract suitable for a generic card game.</td></tr><tr><td><a href="https://github.com/HyprNetwork/zk-card-game-sdk/blob/main/contracts/OneTimeDrawInstance.sol">OneTimeDrawInstance.sol</a></td><td>A sample game contract that allows players to draw all their hands simultaneously, similar to Texas Hold'em.</td></tr><tr><td><a href="https://github.com/HyprNetwork/zk-card-game-sdk/blob/main/contracts/examples/TexasHoldemController.sol">TexasHoldemController.sol</a></td><td>A minimal implementation of Texas Hold'em using <code>OneTimeDrawInstance</code></td></tr></tbody></table>
+
+More info about the functions available here:\
+
+
+{% embed url="https://hackmd.io/@nmohnblatt/SJKJfVqzqz" %}
+
