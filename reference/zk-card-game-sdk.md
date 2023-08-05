@@ -103,5 +103,5 @@ Build your games on top of example game contracts to save time and effort:
 More info about the functions available here:\
 
 
-{% embed url="https://hackmd.io/@nmohnblatt/SJKJfVqzqz" %}
+{% embed url="https://hackmd.io/@nmohnblatt/SJKJfVqzq" %}
 
