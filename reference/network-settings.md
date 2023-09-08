@@ -6,20 +6,10 @@ description: Hypr Network's RPC settings
 
 ### Hypr Testnet
 
-| Field                  | Value                                  |
-| ---------------------- | -------------------------------------- |
-| **Network Name**       | Hypr Testnet                           |
-| **RPC URL**            | https://rpc-testnet.hypr.network/      |
-| **Chain ID**           | 608                                    |
-| **Currency Symbol**    | HyprETH                                |
-| **Block Explorer URL** | https://explorer-testnet.hypr.network/ |
-
-### Hypr Mainnet
-
-| Field                  | Value                          |
-| ---------------------- | ------------------------------ |
-| **Network Name**       | Hypr Mainnet                   |
-| **RPC URL**            | https://rpc.hypr.network/      |
-| **Chain ID**           | 609                            |
-| **Currency Symbol**    | HyprETH                        |
-| **Block Explorer URL** | https://explorer.hypr.network/ |
+| Field                  | Value                                      |
+| ---------------------- | ------------------------------------------ |
+| **Network Name**       | Hypr Testnet (Goerli)                      |
+| **RPC URL**            | http://testnet-follower0.hypr.network:8545 |
+| **Chain ID**           | 60005                                      |
+| **Currency Symbol**    | HyprETH                                    |
+| **Block Explorer URL** | https://testnet-blockscout.hypr.network    |
