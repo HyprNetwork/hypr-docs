@@ -7,8 +7,8 @@
 ## Developer SDKs
 
 * [ZK Card Game SDK](reference/zk-card-game-sdk.md)
-* [In-Game Private Payments SDK](reference/in-game-private-payments-sdk.md)
-* [ZK Tiles SDK](reference/zk-tiles-sdk.md)
+* [The Anonymous Precompile Contract](developer-sdks/the-anonymous-precompile-contract.md)
+* [The Anemoi Precompile Contract](developer-sdks/the-anemoi-precompile-contract.md)
 
 ## Reference
 
