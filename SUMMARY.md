@@ -6,7 +6,7 @@
 
 ## Developer SDKs
 
-* [ZK Card Game SDK](reference/zk-card-game-sdk.md)
+* [The ZkGaming SDK](developer-sdks/the-zkgaming-sdk.md)
 * [The Anonymous Precompile Contract](developer-sdks/the-anonymous-precompile-contract.md)
 * [The Anemoi Precompile Contract](developer-sdks/the-anemoi-precompile-contract.md)
 
