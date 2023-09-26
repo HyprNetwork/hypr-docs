@@ -11,5 +11,5 @@ description: Hypr Network's RPC settings
 | **Network Name**       | Hypr Testnet (Goerli)                                                               |
 | **RPC URL**            | http://testnet-follower0.hypr.network:8545                                          |
 | **Chain ID**           | 60005                                                                               |
-| **Currency Symbol**    | HyprETH                                                                             |
+| **Currency Symbol**    | hETH                                                                                |
 | **Block Explorer URL** | [https://testnet-blockscout.hypr.network](https://testnet-blockscout.hypr.network/) |
