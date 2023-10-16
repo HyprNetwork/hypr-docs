@@ -3,10 +3,12 @@
 ## Introduction
 
 * [About Hypr](README.md)
+* [Zero-Knowledge Proofs](introduction/zero-knowledge-proofs.md)
 
 ## Developer SDKs
 
-* [The ZkGaming SDK](developer-sdks/the-zkgaming-sdk.md)
+* [Hypr Poker SDK](developer-sdks/hypr-poker-sdk/README.md)
+  * [Hypr Poker SDK Usage](developer-sdks/hypr-poker-sdk/hypr-poker-sdk-usage.md)
 * [The Anonymous Precompile Contract](developer-sdks/the-anonymous-precompile-contract.md)
 * [The Anemoi Precompile Contract](developer-sdks/the-anemoi-precompile-contract.md)
 

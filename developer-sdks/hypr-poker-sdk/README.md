@@ -1,11 +1,11 @@
 ---
 description: >-
-  Hyper card game SDK is an all-purpose tool set that enables game developers to
+  Hyper Poker SDK is an all-purpose tool set that enables game developers to
   easily build any on-chain card games employing zero-knowledge proof
   technology.
 ---
 
-# The ZkGaming SDK
+# Hypr Poker SDK
 
 ### The problem we solved
 
@@ -65,3 +65,5 @@ To view the details, please refer to the Wasm Sdk on Github:\
 ### What can be built with the zkGaming SDK?
 
 The zkgaming SDK can be applied to various games that have a card model, including but not limited to poker games, card trading games, casino games, board games, and turn-based games.
+
+[Learn more about how to use the SDK in your game](hypr-poker-sdk-usage.md).
