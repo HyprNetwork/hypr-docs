@@ -1,5 +1,17 @@
 # Hypr Builder Growth Fund
 
-What is the Hypr Builder Growth Fund?&#x20;
+<details>
 
-I'm a builder. How do I qualify for the Hypr Builder Growth Fund?
+<summary>What is the Hypr Builder Growth Fund? </summary>
+
+
+
+</details>
+
+<details>
+
+<summary>I'm a builder. How do I qualify for the Hypr Builder Growth Fund?</summary>
+
+
+
+</details>

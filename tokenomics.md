@@ -1,19 +1,75 @@
 # Tokenomics
 
-What is the address of HYPR token?
 
-What are the tokenomics of HYPR?
 
-What are the benefits of holding HYPR?&#x20;
+<details>
 
-How does Revenue Sharing work?&#x20;
+<summary>What is the address of HYPR token?</summary>
 
-How do I claim my rewards?&#x20;
+answer here
 
-How do I qualify for rewards?
+</details>
 
-When can I claim my rewards?&#x20;
+<details>
 
-How much revenue share will I get?
+<summary>What are the tokenomics of HYPR?</summary>
 
-What is my Revenue Share composed of?
+
+
+</details>
+
+<details>
+
+<summary>How does Revenue Sharing work? </summary>
+
+
+
+</details>
+
+<details>
+
+<summary>What are the benefits of holding HYPR? </summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How do I claim my rewards? </summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How do I qualify for rewards?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>When can I claim my rewards? </summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How much revenue share will I get?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>What is my Revenue Share composed of?</summary>
+
+
+
+</details>
