@@ -2,8 +2,12 @@
 
 ## Introduction
 
-* [About Hypr](README.md)
+* [What is Hypr Network?](README.md)
 * [Zero-Knowledge Proofs](introduction/zero-knowledge-proofs.md)
+
+***
+
+* [Tokenomics](tokenomics.md)
 
 ## Developer SDKs
 
