@@ -1,8 +1,8 @@
-# Hypr Builder Growth Fund
+# Hypr Growth Ecosystem Fund
 
 <details>
 
-<summary>What is the Hypr Builder Growth Fund? </summary>
+<summary>What is the Hypr Growth Ecosystem Fund? </summary>
 
 
 

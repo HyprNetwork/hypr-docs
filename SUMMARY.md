@@ -8,7 +8,7 @@
 ***
 
 * [Tokenomics](tokenomics.md)
-* [Hypr Builder Growth Fund](hypr-builder-growth-fund.md)
+* [Hypr Growth Ecosystem Fund](hypr-growth-ecosystem-fund.md)
 
 ## Developer SDKs
 
