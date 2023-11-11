@@ -13,8 +13,8 @@
 
 ## Developer SDKs
 
-* [♠ Hypr Poker SDK](developer-sdks/hypr-poker-sdk/README.md)
-  * [♠ Hypr Poker SDK Usage](developer-sdks/hypr-poker-sdk/hypr-poker-sdk-usage.md)
+* [♠ Hypr Cards SDK](developer-sdks/hypr-cards-sdk/README.md)
+  * [♠ Hypr Cards SDK Usage](developer-sdks/hypr-cards-sdk/hypr-cards-sdk-usage.md)
 * [The Anonymous Precompile Contract](developer-sdks/the-anonymous-precompile-contract.md)
 * [The Anemoi Precompile Contract](developer-sdks/the-anemoi-precompile-contract.md)
 

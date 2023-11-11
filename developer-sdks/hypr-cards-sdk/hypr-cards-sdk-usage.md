@@ -1,8 +1,8 @@
 ---
-description: Learn how to use the Hypr Poker SDK
+description: Learn how to use the Hypr Cards SDK
 ---
 
-# ♠ Hypr Poker SDK Usage
+# ♠ Hypr Cards SDK Usage
 
 ### Install modules
 
