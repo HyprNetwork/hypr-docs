@@ -4,12 +4,16 @@ description: Learn how to use the Hypr Poker SDK
 
 # Hypr Poker SDK Usage
 
+### Install modules
+
 Begin by installing and importing typescript packages `hypr-poker-export` and `ethers`
 
 ```sh
 yarn add hypr-poker-export
 yarn add ethers
 ```
+
+### Import modules
 
 ```typescript
 import * as precompile from 'hypr-poker-export/precompile';
@@ -19,24 +23,34 @@ const IMentalPokerExecAbi = require('hypr-poker-export/abi/IMentalPokerExec.json
 const IMentalPokerVerifyAbi = require('hypr-poker-export/abi/IMentalPokerVerify.json');
 ```
 
-Next, you need to create contract object of **Poker Exec** and **Poker Verify** precompile contracts.
+### Contract Objects
+
+Next, you need to create a contract object of **Poker Exec** and **Poker Verify** precompile contracts.
+
+You will need to update the [provider RPC url ](../../reference/network-settings.md)and a wallet key.
+
+{% hint style="warning" %}
+Never hardcode your wallet private key.
+{% endhint %}
 
 ```typescript
-const provider = new JsonRpcProvider('<web3 rpc>');
+const provider = new JsonRpcProvider('http://testnet-proposer0.hypr.network:8545');
 const signer = new Wallet('<your secret key>', provider);
 
 const pokerExec = new Contract(
-  '<PokerExec contract precompile address>',
+  '0x0000000000000000000000000000000000000040',
   IMentalPokerExecAbi,
   signer,
 ) as unknown as precompile.IMentalPokerExec;
 
 const pokerVerify = new Contract(
-  '<Poker Verfiy precompile contract address>',
+  '0x0000000000000000000000000000000000000030',
   IMentalPokerVerifyAbi,
   signer,
 ) as unknown as precompile.IMentalPokerVerify;
 ```
+
+### Game Parameters
 
 Before beginning the game, you must generate game parameters and cards for on-chain contract computation, player key, and keyproof for off-chain player computation.
 
@@ -72,6 +86,8 @@ const pubKeyPeter = gameKeyAndProofPeter.getPubKey();
 const secKeyPeter = gameKeyAndProofPeter.getSecKey();
 const keyownershipProofPeter = gameKeyAndProofPeter.getProof();
 ```
+
+### Shuffle Cards
 
 If you want to shuffle cards on-chain safely, you are able to call function `verifyKeyOwnership()` -> `computeAggregateKey()` -> `mask()` -> `shuffleAndRemask()` -> `verifyShuffle()`
 
@@ -202,6 +218,8 @@ if(!await pokerVerify.verifyShuffle(
   throw 'poker verify shuffle failed';
 }
 ```
+
+### Reaveal Cards
 
 If you want to reveal cards from mask-shuffled cards on-chain safely, you are able to call function `computeRevealToken()` -> `verifyReveal()` -> `reveal()`
 

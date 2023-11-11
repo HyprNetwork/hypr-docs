@@ -13,8 +13,14 @@ Creating card game protocols on public blockchains poses several challenges. One
 
 ### The Solidity APIs for smart contract
 
-After taking a good hard look at how card games work in the real world, we found a bunch of common things that they all need to do. Then the magic zero-knowledge proof tech was used to build a sweet set of APIs for card games that can handle all these common operations. We made it super easy for game developers to use our APIs by packaging them up as precompiled smart contracts that can be plugged right into their Ethereum Virtual Machine (EVM) game contracts. This way, they can focus on making their games awesome without having to worry about reinventing the wheel every time.\
-\
+After taking a good hard look at how card games work in the real world, we found a bunch of common things that they all need to do. Then the magic zero-knowledge proof tech was used to build a sweet set of APIs for card games that can handle all these common operations. We made it super easy for game developers to use our APIs by packaging them up as precompiled smart contracts that can be plugged right into their Ethereum Virtual Machine (EVM) game contracts. This way, they can focus on making their games awesome without having to worry about reinventing the wheel every time.
+
+Dive in and look at a sample or continue reading below.
+
+{% content-ref url="hypr-poker-sdk-usage.md" %}
+[hypr-poker-sdk-usage.md](hypr-poker-sdk-usage.md)
+{% endcontent-ref %}
+
 To view the details, please refer to the Solidity Interface of [Mental](https://www.google.com/url?q=https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/IMentalPokerExec.sol\&sa=D\&source=editors\&ust=1695158955413170\&usg=AOvVaw2VOhFycdSrJujI1kJKEv3d) Poker Exec on Github:\
 [https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/interface/IMentalPokerExec.sol](https://www.google.com/url?q=https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/interface/IMentalPokerExec.sol\&sa=D\&source=editors\&ust=1695158955413527\&usg=AOvVaw25p0uAY32r-YHnBlx-qsK1)\
 
@@ -66,4 +72,6 @@ To view the details, please refer to the Wasm Sdk on Github:\
 
 The zkgaming SDK can be applied to various games that have a card model, including but not limited to poker games, card trading games, casino games, board games, and turn-based games.
 
-[Learn more about how to use the SDK in your game](hypr-poker-sdk-usage.md).
+{% content-ref url="hypr-poker-sdk-usage.md" %}
+[hypr-poker-sdk-usage.md](hypr-poker-sdk-usage.md)
+{% endcontent-ref %}
