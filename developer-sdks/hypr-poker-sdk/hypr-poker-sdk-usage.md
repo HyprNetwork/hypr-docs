@@ -99,7 +99,7 @@ if(!await pokerVerify.verifyKeyOwnership(
 
 
 // Compute aggregate key.
-const pubKeys = [];
+const pubKeys : Uint8Array[] = [];
 pubKeys.push(pubKeyAlice.serial());
 pubKeys.push(pubKeyPeter.serial());
 
