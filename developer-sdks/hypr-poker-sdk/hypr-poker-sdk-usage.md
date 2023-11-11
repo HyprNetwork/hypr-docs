@@ -147,7 +147,7 @@ for (let i = 0; i < cardsEncoded.length; i++) {
 }
 
 
-// Player Alice shuffle cards and verify shulle cards.
+// Player Alice shuffle cards and verify shuffled cards.
 const randAlice = wasm.CardRand.buildRand();
 const permutationAlice = wasm.Permutation.newPermutation(randAlice, m * n);
 const shuffledCardsAndShuffleProofAlice = wasm.shuffleAndRemask(
@@ -186,7 +186,7 @@ if(!await pokerVerify.verifyShuffle(
 }
 
 
-// Player Peter shuffle cards and verify shulle cards.
+// Player Peter shuffle cards and verify shuffled cards.
 const randPeter = wasm.CardRand.buildRand();
 const permutationPeter = wasm.Permutation.newPermutation(randPeter, m * n);
 const shuffledCardsAndShuffleProofPeter = wasm.shuffleAndRemask(
