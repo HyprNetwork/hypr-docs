@@ -5,7 +5,7 @@ description: >-
   technology.
 ---
 
-# Hypr Poker SDK
+# ♠ Hypr Poker SDK
 
 ### The problem we solved
 
@@ -21,21 +21,16 @@ Dive in and look at a sample or continue reading below.
 [hypr-poker-sdk-usage.md](hypr-poker-sdk-usage.md)
 {% endcontent-ref %}
 
-To view the details, please refer to the Solidity Interface of [Mental](https://www.google.com/url?q=https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/IMentalPokerExec.sol\&sa=D\&source=editors\&ust=1695158955413170\&usg=AOvVaw2VOhFycdSrJujI1kJKEv3d) Poker Exec on Github:\
-[https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/interface/IMentalPokerExec.sol](https://www.google.com/url?q=https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/interface/IMentalPokerExec.sol\&sa=D\&source=editors\&ust=1695158955413527\&usg=AOvVaw25p0uAY32r-YHnBlx-qsK1)\
-
-
 | API name              | Description                    |
 | --------------------- | ------------------------------ |
 | computeAggregateKey() | Compute aggregation public key |
 | mask()                | Mask a playing card            |
 | reveal()              | Reveal a masked playing card   |
 
-| Solidity Interface                                                                                                                                                                                                                                                                                                                                                                                                                           | Contract Address                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [Mental](https://www.google.com/url?q=https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/IMentalPokerExec.sol\&sa=D\&source=editors\&ust=1695158955416868\&usg=AOvVaw1iEmyA\_yLcG97r9I9DDj-4) Poker [Exec](https://www.google.com/url?q=https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/IMentalPokerExec.sol\&sa=D\&source=editors\&ust=1695158955417190\&usg=AOvVaw2hiQxy5qMpJusAnZzps7PI) | 0x0000000000000000000000000000000000000040 |
+| Solidity Interface | Contract Address                           |
+| ------------------ | ------------------------------------------ |
+| Mental Poker Exec  | 0x0000000000000000000000000000000000000040 |
 
-To view the details, please refer to the Solidity Interface of [Mental Poker Exec on Github](https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/interface/IMentalPokerVerify.sol).\
 
 
 | API name             | Description                             |
@@ -44,9 +39,9 @@ To view the details, please refer to the Solidity Interface of [Mental Poker Exe
 | verifyShuffle()      | Verify proof of shuffling of deck       |
 | verifyReveal()       | Verify proof of reveal token of a card  |
 
-| Solidity Interface                                                                                                                                                                                                                                                                                                                                                                                                                                | Contract Address                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [Mental](https://www.google.com/url?q=https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/IMentalPokerExec.sol\&sa=D\&source=editors\&ust=1695158955421945\&usg=AOvVaw0BaAnephW\_R23dbrXZNq3W) Poker [Verify](https://www.google.com/url?q=https://github.com/HyprNetwork/hypr-poker-interface/blob/master/contracts/IMentalPokerVerify.sol\&sa=D\&source=editors\&ust=1695158955422303\&usg=AOvVaw3fq6IYGY\_Uw-kwU94NmdIa) | 0x0000000000000000000000000000000000000030 |
+| Solidity Interface  | Contract Address                           |
+| ------------------- | ------------------------------------------ |
+| Mental Poker Verify | 0x0000000000000000000000000000000000000030 |
 
 The Typescript/Javascript API for game client
 
@@ -60,13 +55,7 @@ The Typescript/Javascript API for game client
 | computeRevealToken() | Compute a reveal token for a given masked card                             |
 | reveal()             | Reveal a masked card to see its original value                             |
 
-To view the details, please refer to the WASM Interface on Github:\
-[https://github.com/HyprNetwork/hypr-poker-interface/blob/master/scripts/interface/zkcard\_wasm\_interface\_func.d.ts](https://www.google.com/url?q=https://github.com/HyprNetwork/hypr-poker-interface/blob/master/scripts/interface/zkcard\_wasm\_interface\_func.d.ts\&sa=D\&source=editors\&ust=1695158955427828\&usg=AOvVaw1cGVRQ7XxIr2Ls\_bNGrL6H)&#x20;
 
-[https://github.com/HyprNetwork/hypr-poker-interface/blob/master/scripts/interface/zkcard\_wasm\_interface\_type.d.ts](https://www.google.com/url?q=https://github.com/HyprNetwork/hypr-poker-interface/blob/master/scripts/interface/zkcard\_wasm\_interface\_type.d.ts\&sa=D\&source=editors\&ust=1695158955428204\&usg=AOvVaw0Vmc-XGnN5UOSS3fM8i7Y-)
-
-To view the details, please refer to the Wasm Sdk on Github:\
-[https://github.com/HyprNetwork/zkcard-wasm](https://www.google.com/url?q=https://github.com/HyprNetwork/zkcard-wasm\&sa=D\&source=editors\&ust=1695158955428561\&usg=AOvVaw3\_wLsmXm6PqCqh-68rJX80)
 
 ### What can be built with the zkGaming SDK?
 

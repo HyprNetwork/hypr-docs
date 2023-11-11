@@ -2,7 +2,7 @@
 description: Learn how to use the Hypr Poker SDK
 ---
 
-# Hypr Poker SDK Usage
+# ♠ Hypr Poker SDK Usage
 
 ### Install modules
 
@@ -86,6 +86,12 @@ const pubKeyPeter = gameKeyAndProofPeter.getPubKey();
 const secKeyPeter = gameKeyAndProofPeter.getSecKey();
 const keyownershipProofPeter = gameKeyAndProofPeter.getProof();
 ```
+
+{% hint style="info" %}
+Integers `n*m` must equal to the number of cards. e.g. `4 * 13 = 52.`
+
+The need for two variables is due to wasm execution performance optimization.
+{% endhint %}
 
 ### Shuffle Cards
 
