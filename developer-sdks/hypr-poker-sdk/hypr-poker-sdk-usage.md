@@ -15,8 +15,8 @@ yarn add ethers
 import * as precompile from 'hypr-poker-export/precompile';
 import * as wasm from 'hypr-poker-export/wasm';
 import { Contract, JsonRpcProvider, Wallet, getBytes } from 'ethers';
-import IMentalPokerExecAbi from 'hypr-poker-export/abi/IMentalPokerExec.json';
-import IMentalPokerVerifyAbi from 'hypr-poker-export/abi/IMentalPokerVerify.json';
+const IMentalPokerExecAbi = require('hypr-poker-export/abi/IMentalPokerExec.json');
+const IMentalPokerVerifyAbi = require('hypr-poker-export/abi/IMentalPokerVerify.json');
 ```
 
 Next, you need to create contract object of **Poker Exec** and **Poker Verify** precompile contracts.
