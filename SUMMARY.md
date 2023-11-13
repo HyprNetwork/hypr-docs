@@ -13,10 +13,11 @@
 
 ## Developer SDKs
 
-* [♠ Hypr Cards SDK](developer-sdks/hypr-cards-sdk/README.md)
-  * [♠ Hypr Cards SDK Usage](developer-sdks/hypr-cards-sdk/hypr-cards-sdk-usage.md)
+* [Hypr Cards SDK](developer-sdks/hypr-cards-sdk/README.md)
+  * [Hypr Cards SDK Usage](developer-sdks/hypr-cards-sdk/hypr-cards-sdk-usage.md)
 * [The Anonymous Precompile Contract](developer-sdks/the-anonymous-precompile-contract.md)
 * [The Anemoi Precompile Contract](developer-sdks/the-anemoi-precompile-contract.md)
+* [Random Number Generator](developer-sdks/random-number-generator.md)
 
 ## Reference
 
