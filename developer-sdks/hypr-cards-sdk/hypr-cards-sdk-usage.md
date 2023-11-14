@@ -2,7 +2,7 @@
 description: Learn how to use the Hypr Cards SDK
 ---
 
-# ♠ Hypr Cards SDK Usage
+# Hypr Cards SDK Usage
 
 ### Install modules
 

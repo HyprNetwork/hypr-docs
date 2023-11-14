@@ -5,7 +5,7 @@ description: >-
   technology.
 ---
 
-# ♠ Hypr Cards SDK
+# Hypr Cards SDK
 
 ### The problem we solved
 
