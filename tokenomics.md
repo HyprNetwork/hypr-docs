@@ -54,7 +54,7 @@ The purchase amount limit per wallet address is 100,000 $HYPR Tokens. The reason
 
 <summary>Is Uniswap Liquidity locked? Tell me more.</summary>
 
-The Hypr team plans on locking the uniswap v2 LP tokens. In terms of timing, we do not have an ETA on that but, rest assured, we plan on locking liquidity within 7 days of creating the uniswa v2 pool.&#x20;
+The Hypr team plans on locking the uniswap v2 LP tokens. In terms of timing, we do not have an ETA on that but, rest assured, we plan on locking liquidity within 7 days of creating the uniswap v2 pool.&#x20;
 
 We are working with Floki team, the creator of Flokifi, the well-known and respected locker for liquidity.&#x20;
 
