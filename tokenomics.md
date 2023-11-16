@@ -23,7 +23,7 @@ description: >-
 The HYPR token has a fixed supply of 100,000,000 tokens, allocated in the following ways:
 
 * 70,000,000 (70%) was allocated to the uniswap v2 pool in a fair launch manner, which means that the team had access to buy the tokens at the same time and price as the general public. The team had no information or time advantage.&#x20;
-* 30,000,000 (30%) was set aside \<add multisig wallet address here> to be used for retroactive rewards for developers and users and partners that deploy their app on Hypr Network. The details of the retroactive airdrop is still TBD.
+* 30,000,000 (30%) was set aside to be used for retroactive rewards for developers and users and partners that deploy their app on Hypr Network. [0x1a297afb9373355bb9492e469ca0a531fda87364](https://etherscan.io/address/0x1a297afb9373355bb9492e469ca0a531fda87364). The details of the retroactive airdrop is still TBD.
 
 Our goal is to create a network that is owned by its community members, but balanced in a way to also reward developers and users of applications that deploy on Hypr Network.\
 \
