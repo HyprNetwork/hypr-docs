@@ -14,7 +14,7 @@
 ## Developer SDKs
 
 * [Hypr Cards SDK](developer-sdks/hypr-cards-sdk/README.md)
-  * [Hypr Cards SDK Usage](developer-sdks/hypr-cards-sdk/hypr-cards-sdk-usage.md)
+  * [Hypr Cards SDK Usage Example](developer-sdks/hypr-cards-sdk/hypr-cards-sdk-usage-example.md)
 * [Random Number Generator](developer-sdks/random-number-generator.md)
 * [The Anemoi Precompile Contract](developer-sdks/the-anemoi-precompile-contract.md)
 
