@@ -33,17 +33,6 @@ Our goal is sustainable growth as a network and the 30% in a multisig wallet wil
 
 <details>
 
-<summary>What is the purchase limit per wallet address? Why have that?</summary>
-
-The purchase amount limit per wallet address is 100,000 $HYPR Tokens. The reason for this limit are as follows:
-
-* As a fair launch project, the initial market capitalization is very low. Putting purchase limits prevents any single actor to acquire a meaningfully large amount of the liquidity pool.&#x20;
-* By setting limits, we are purposely putting the community first by creating an environment of healthy buying, selling, trading, swapping, and holding. We want holders of $HYPR to be both small and large and anything in between. At bottom, we want things fair and also broadly inclusive. We want everyone involved and participate in the Hypr Network.&#x20;
-
-</details>
-
-<details>
-
 <summary>What is the address of the Uniswap v2 Pool?</summary>
 
 [https://app.uniswap.org/swap?inputCurrency=ETH\&outputCurrency=0x31adda225642a8f4d7e90d4152be6661ab22a5a2\&chain=mainnet](https://app.uniswap.org/swap?inputCurrency=ETH\&outputCurrency=0x31adda225642a8f4d7e90d4152be6661ab22a5a2\&chain=mainnet)
