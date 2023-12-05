@@ -58,9 +58,7 @@ We will share more information as this becomes more relevant.
 * User must hold a minimum of 100,000 HYPR tokens.&#x20;
   * Once per week, we will do an unannounced snapshot. At the end of the calendar month, we will take the average of snapshots and the average of all snapshots taken must be at least 100,000 or greater to qualify for the staking rewards.
 * No staking or lockup. Just hold the tokens in a non-custodial wallet (i.e., NOT a centralized exchange (CEX) wallet address like Binance).&#x20;
-* Staking reward is distributed in $HYPR by default.
-* Claiming rewards requires a minimum of 0.1 ETH accumulated.&#x20;
-* Users have 14 days to claim. After the claim period, the rewards will be used to purchase $HYPR tokens in the open market and burned. The team will do its best to remind users to claim and announce publicly during the 14 day claim period.&#x20;
+* Staking reward is distributed in $HYPR by default.&#x20;
 
 Later, per our product roadmap, we plan on adding a Lock feature where the user is able to lock their HYPR tokens for a boost on their rewards.&#x20;
 
