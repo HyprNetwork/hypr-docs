@@ -14,7 +14,7 @@ After installing the [MetaMask](https://support.metamask.io/hc/en-us/articles/36
 
 To add $HYPR token in Metamask, you can either do so by clicking on the Metamask icon on [CoinGecko](https://www.coingecko.com/en/coins/hypr-network), [CoinMarketCap](https://coinmarketcap.com/currencies/hypr-network/), or add it manually:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="349"><figcaption><p>Click "Import Tokens" on the "Tokens tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="346"><figcaption><p>On the "Tokens" tab, click on "Import tokens"</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (8).png" alt="" width="340"><figcaption><p>Enter the $HYPR contract address and the rest should auto-fill</p></figcaption></figure>
 
