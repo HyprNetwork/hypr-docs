@@ -10,6 +10,10 @@ description: >-
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | [https://testnet-bridge.hypr.network/](https://testnet-bridge.hypr.network/) | [https://bridge.hypr.network/](https://bridge.hypr.network/) |
 
+{% hint style="info" %}
+Please note. Bridging assets to and from Hypr requires gas fees in $ETH. Be sure to have sufficient $ETH in your wallet to cover the cost of the fees.
+{% endhint %}
+
 ## Deposit: Moving assets from Ethereum -> Hypr
 
 Moving assets from Ethereum network to Hypr network is straightforward. Simply connect your Metamask wallet, then select the Deposit tab, select the asset type, enter the amount and click the Deposit button. Here is an example of moving 0.01 $ETH from Ethereum over to Hypr:
