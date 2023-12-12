@@ -6,9 +6,9 @@ description: >-
 
 # Bridge
 
-| Testnet                                                                      | Mainnet       |
-| ---------------------------------------------------------------------------- | ------------- |
-| [https://testnet-bridge.hypr.network/](https://testnet-bridge.hypr.network/) | Lauching soon |
+| Testnet                                                                      | Mainnet                                                      |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [https://testnet-bridge.hypr.network/](https://testnet-bridge.hypr.network/) | [https://bridge.hypr.network/](https://bridge.hypr.network/) |
 
 ## Deposit: Moving assets from Ethereum -> Hypr
 
