@@ -6,9 +6,9 @@ description: >-
 
 # Bridge
 
-| Testnet                                                                      | Mainnet                                                      |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [https://testnet-bridge.hypr.network/](https://testnet-bridge.hypr.network/) | [https://bridge.hypr.network/](https://bridge.hypr.network/) |
+| Testnet                                                                      | Mainnet     |
+| ---------------------------------------------------------------------------- | ----------- |
+| [https://testnet-bridge.hypr.network/](https://testnet-bridge.hypr.network/) | Coming soon |
 
 {% hint style="info" %}
 Please note. Bridging assets to and from Hypr requires gas fees in $ETH. Be sure to have sufficient $ETH in your wallet to cover the cost of the fees.
