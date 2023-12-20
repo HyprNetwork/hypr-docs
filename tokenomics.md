@@ -76,7 +76,7 @@ We will share more information as this becomes more relevant.
 <summary>What is my staking reward composed of?</summary>
 
 * As of this writing (Oct 30, 2023), staking reward is comprised primarily of sale taxes. This means for every sell of $HYPR tokens, the transaction is taxed 5%, broken out in the following ways:
-  * 1% goes back to the Uniswap v2 liquidity pool.
+  * 1% goes back to the Uniswap v2 liquidity pool or CEX.
   * 2% goes toward staking rewards.
   * 2% goes toward operating expenses such as marketing and business development.
 
