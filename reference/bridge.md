@@ -7,7 +7,7 @@ description: >-
 # Bridge
 
 {% hint style="warning" %}
-Please note. Hypr bridge is temporarily unavailable. We are moving to a new rollups provider and the new bridge will be made available soon.
+Please note. Hypr bridge is temporarily unavailable. We are moving to a new rollup provider and the new bridge will be made available soon.
 {% endhint %}
 
 ## Deposit: Moving assets from Ethereum -> Hypr
