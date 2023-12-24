@@ -6,12 +6,8 @@ description: >-
 
 # Bridge
 
-| Testnet                                                                      | Mainnet     |
-| ---------------------------------------------------------------------------- | ----------- |
-| [https://testnet-bridge.hypr.network/](https://testnet-bridge.hypr.network/) | Coming soon |
-
-{% hint style="info" %}
-Please note. Bridging assets to and from Hypr requires gas fees in $ETH. Be sure to have sufficient $ETH in your wallet to cover the cost of the fees.
+{% hint style="warning" %}
+Please note. Hypr bridge is temporarily unavailable. We are moving to a new rollups provider and the new bridge will be made available soon.
 {% endhint %}
 
 ## Deposit: Moving assets from Ethereum -> Hypr
