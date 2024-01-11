@@ -6,9 +6,9 @@ description: >-
 
 # Bridge
 
-{% hint style="warning" %}
-Please note. Hypr bridge is temporarily unavailable. We are moving to a new rollup provider and the new bridge will be made available soon.
-{% endhint %}
+| Testnet                                                                      | Mainnet     |
+| ---------------------------------------------------------------------------- | ----------- |
+| [https://bridge-testnet.hypr.network/](https://bridge-testnet.hypr.network/) | Coming soon |
 
 ## Deposit: Moving assets from Ethereum -> Hypr
 
