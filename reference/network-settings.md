@@ -19,7 +19,7 @@ description: Hypr Network's RPC settings
 | Field                  | Value                                                           |
 | ---------------------- | --------------------------------------------------------------- |
 | **Network Name**       | Hypr                                                            |
-| **RPC URL**            | https://mainnet-proposer.hypr.network                           |
-| **Chain ID**           | 1206                                                            |
+| **RPC URL**            | https://rpc.hypr.network                                        |
+| **Chain ID**           | 881                                                             |
 | **Currency Symbol**    | ETH                                                             |
 | **Block Explorer URL** | [https://explorer.hypr.network](https://explorer.hypr.network/) |
