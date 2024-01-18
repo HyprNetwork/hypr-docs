@@ -18,6 +18,10 @@
 * [Random Number Generator](developer-sdks/random-number-generator.md)
 * [The Anemoi Precompile Contract](developer-sdks/the-anemoi-precompile-contract.md)
 
+## Tools
+
+* [Thirdweb](tools/thirdweb.md)
+
 ## Reference
 
 * [Network Settings](reference/network-settings.md)
