@@ -8,9 +8,9 @@ description: A complete web3 development toolkit
 
 [Thirdweb](https://thirdweb.com/) is a complete web3 development toolkit with everything you need to connect your apps and games to Hypr Network.
 
-Thirdweb comes packed with a comprehensive suite of product to help you develop and scale your games and decentralized applications on Hypr. Tools such a [Unity SDK](https://portal.thirdweb.com/unity/getting-started), [NFT Collections](https://portal.thirdweb.com/contracts/explore/pre-built-contracts/nft-collection), and many more.
+Thirdweb comes packed with a comprehensive suite of products to help you develop and scale your games and decentralized applications on Hypr. Tools such a [Unity SDK](https://portal.thirdweb.com/unity/getting-started), [NFT Collections](https://portal.thirdweb.com/contracts/explore/pre-built-contracts/nft-collection), and many more.
 
-{% embed url="https://portal.thirdweb.com/" %}
+{% embed url="https://portal.thirdweb.com/" fullWidth="false" %}
 Thirdweb Developer Portal
 {% endembed %}
 
