@@ -6,6 +6,10 @@ description: >-
 
 # Bridge
 
+{% hint style="success" %}
+The Hypr Bridge is powered by OP Stack and managed by [Conduit](https://conduit.xyz) who work closely with the OP team to ensure the codebase is secure and up-to-date.
+{% endhint %}
+
 | Testnet                                                                      | Mainnet                                                      |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | [https://bridge-testnet.hypr.network/](https://bridge-testnet.hypr.network/) | [https://bridge.hypr.network/](https://bridge.hypr.network/) |
