@@ -29,3 +29,7 @@
 * [Bridge](reference/bridge.md)
 * [MetaMask](reference/metamask.md)
 * [Deploying Smart Contracts](reference/deploying-smart-contracts.md)
+
+## Apps
+
+* [HyprJack](apps/hyprjack.md)
