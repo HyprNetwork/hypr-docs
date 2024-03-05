@@ -10,6 +10,8 @@ We will publish a more comprehensive answer, explaining our vision for go-to-mar
 2. Takeoff
 3. Climb-Cruise-Climb
 
-We are excited to tell you more. More on that later.&#x20;
+March 5, 2024 Update: \
+\
+[https://twitter.com/hypr\_network/status/1757485918859276700?s=20](https://twitter.com/hypr\_network/status/1757485918859276700?s=20)
 
 </details>
